@@ -9,6 +9,8 @@ To properly download code files from a Git LFS-updated repository without corrup
 5.	Inside this local repository folder, you should find the code files. If the files are compressed (zipped), you may use a tool like 7Zip (downloadable from https://www.7-zip.org/) to extract them.
 This method ensures that you get an exact copy of the repository, including all files handled by Git LFS, ready for use on your system.
 
-Please note: git clone https://github.com/PacktPublishing/Blender-Beginner-s-Bootcamp.git git lfs pull After you have the files, check whether the size is around 2.61 Gb. Once done, move the files into one single folder and select all 3 of the files, then right click on extract here (using 7zip_
+Please note:
+The files in this zip file has been divided into 3 parts, and uploaded using Git LFS So, to clone this repo:
+git clone https://github.com/PacktPublishing/Blender-Beginner-s-Bootcamp.git git lfs pull After you have the files, check whether the size is around 2.61 Gb. Once done, move the files into one single folder and select all 3 of the files, then right click on extract here (using 7zip_
 
 
