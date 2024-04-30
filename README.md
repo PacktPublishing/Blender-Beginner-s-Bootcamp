@@ -1,7 +1,7 @@
 # Blender-Beginner-s-Bootcamp
 Blender-Beginner-s-Bootcamp, by Packt Publishing
 
-To properly download code files from a Git LFS-updated repository without corrupting the files, please follow these straightforward steps:
+Please follow the following steps to download this code bundle:
 1.	Download and install the GitHub Desktop app from this link: https://desktop.github.com/?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs. Open the application and sign in with your GitHub credentials.
 2.	In the GitHub Desktop app, navigate to "File" -> "Clone Repository."
 3.	In the dialog that appears, paste the URL of the repository you wish to clone into the "URL" field. Below, choose a location on your local drive where you'd like to store the repository files and click "Clone."
